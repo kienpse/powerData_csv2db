@@ -1,0 +1,19 @@
+# data
+*.[cC][sS][vV]
+*.[dD][bB]
+*.parquet
+*.zip
+*.gz
+
+# notebooks and python noise
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
+env/
+*.log
+
+# editor and system
+.vscode/
+.DS_Store
+Thumbs.db
